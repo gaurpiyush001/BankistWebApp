@@ -8,7 +8,8 @@
 // Data
 
 // DIFFERENT DATA! Contains movement dates, currency and locale
-
+alert("This is only a FRONTEND APPLICATION")
+alert("user1 credentials-:(pg , 1111) \n user2 credentials-:(ga , 2222) ");
 const account1 = {
   owner: 'Piyush Gaur',
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
